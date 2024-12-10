@@ -12,6 +12,8 @@
 ⚡My frontend expertise is React.js
     <br/>  <br/>
 📫 Email: nurmurodrabbimov@gmail.com
+      <br/>  <br/>
+🌐 Telegram: https://t.me/rabbimov_1
     <br/>  <br/>
 🌐 Portfolio: https://example.com
 </div>
